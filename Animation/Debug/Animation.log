@@ -1,0 +1,5 @@
+﻿  project.c
+e:\onedrive - city university of hong kong\cityu_data and file\y4 sema\computer graphic\cg_runningman\animation\project.c(92): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+e:\onedrive - city university of hong kong\cityu_data and file\y4 sema\computer graphic\cg_runningman\animation\project.c(506): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+e:\onedrive - city university of hong kong\cityu_data and file\y4 sema\computer graphic\cg_runningman\animation\project.c(507): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+  Animation.vcxproj -> E:\OneDrive - City University of Hong Kong\CityU_Data and File\Y4 semA\Computer Graphic\CG_RunningMan\Animation\Debug\Animation.exe
